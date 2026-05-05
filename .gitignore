@@ -1,0 +1,10 @@
+# Ignorar todo
+*
+
+# Permitir solo lo necesario
+!README.md
+!.gitignore
+!x64/Release/LKAnticheat.exe
+!x64/Release/LKHook.dll
+!x64/
+!x64/Release/
