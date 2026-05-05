@@ -1,5 +1,7 @@
 # LK Anticheat — CS 1.6
 
+![LK Anticheat](preview.png)
+
 Anticheat for Counter-Strike 1.6. Designed to be **simple** — the player just opens the launcher and plays. No complicated setup, no extra steps. Unlike many other anticheats out there, this one doesn't require the client to do anything specific.
 
 > **Source code:** free upon request. Write to **zideriaglink@gmail.com** and I'll send it to you, no payment required.
