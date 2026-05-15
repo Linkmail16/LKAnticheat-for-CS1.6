@@ -1,7 +1,5 @@
-# Ignorar todo
 *
 
-# Permitir solo lo necesario
 !README.md
 !.gitignore
 !x64/Release/LKAnticheat.exe
